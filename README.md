@@ -1,2 +1,16 @@
-# carshop_project
-CarShop AutoParts is a sleek, modern, and fully responsive Flutter application built to deliver a smooth online car parts shopping experience. It features an elegant UI, seamless navigation, and real-time interactivity — all designed with user convenience in mind.This project demonstrates how to build a real-world e-commerce mobile appusing Flutter
+# carshop_autoparts
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
